@@ -1,5 +1,6 @@
-# nexcent
-Landing page for a business.
+# Nexcent
+Beautiful landing page for a business.
+https://nexcent-pi-green.vercel.app/
 
 ## Project setup
 
@@ -15,8 +16,12 @@ cd nexcent
 npm install
 ```
 
-### Compiles for development
+### Compile for development
 ```sh
 npm run serve
 ```
 
+### Build for production
+```sh
+npm run build
+```
