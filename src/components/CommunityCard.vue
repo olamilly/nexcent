@@ -45,7 +45,6 @@ else{
 }
 .containery:hover{
     transform: scale(1.2,1.2);
-    
 }
 h2{
     color: #4D4D4D;
