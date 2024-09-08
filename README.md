@@ -1,24 +1,22 @@
 # nexcent
+Landing page for a business.
 
 ## Project setup
+
+```sh
+git clone https://github.com/olamilly/nexcent.git
 ```
+
+```sh
+cd nexcent
+```
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### Compiles for development
+```sh
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
